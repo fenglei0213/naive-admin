@@ -1,0 +1,15 @@
+export default {
+  general: '常规布局',
+  around: '左右布局',
+  upand: '上下布局',
+  commonTemp: '常用模板',
+  curd: 'Curd页面',
+  tabTable: 'Tab表格',
+  detail: '详情页面',
+  popupForm: '弹窗表单',
+  drawerForm: '抽屉表单',
+  packetForm: '分组表单',
+  dynamicForm: '动态表单',
+  system: '系统管理',
+  project: '关于项目',
+};

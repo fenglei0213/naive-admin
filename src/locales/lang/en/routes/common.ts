@@ -1,0 +1,15 @@
+export default {
+  general: 'General',
+  around: 'Around',
+  upand: 'Upand',
+  commonTemp: 'Template',
+  curd: 'CurdPage',
+  tabTable: 'TabTable',
+  detail: 'DetailPage',
+  popupForm: 'PopupForm',
+  drawerForm: 'DrawerForm',
+  packetForm: 'PacketForm',
+  dynamicForm: 'DynamicForm',
+  system: 'System',
+  project: 'Project',
+};
